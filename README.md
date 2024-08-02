@@ -1,2 +1,3 @@
 Projeto Criação de animais
-Projeto desenvolvido para UC4 - POO
+
+Projeto desenvolvido para UC4 - POO Senac
